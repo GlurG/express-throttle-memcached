@@ -1,0 +1,26 @@
+{
+  "name": "express-throttle-memcached",
+  "version": "0.0.1",
+  "description": "Memcached wrapper for express-throttle",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlurG/express-throttle-memcached.git"
+  },
+  "keywords": [
+    "memcached",
+    "throttle",
+    "express"
+  ],
+  "author": "Martin Tittenberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlurG/express-throttle-memcached/issues"
+  },
+  "homepage": "https://github.com/GlurG/express-throttle-memcached#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "express-throttle": "^2.0.0",
+    "memcached": "^2.2.2"
+  }
+}
